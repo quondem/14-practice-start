@@ -5,6 +5,11 @@
 https://vue-online-bank-19867.web.app
 ```
 
+## Test login and password
+```
+l:v@mail.ru p:123456
+```
+
 ## Project setup
 ```
 npm install
