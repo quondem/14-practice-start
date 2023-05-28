@@ -1,4 +1,9 @@
-# vue-practice-app
+# online-bank
+
+## Hosting
+```
+https://vue-online-bank-19867.web.app
+```
 
 ## Project setup
 ```
